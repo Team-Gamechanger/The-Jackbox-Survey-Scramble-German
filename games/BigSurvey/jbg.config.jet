@@ -25,7 +25,7 @@
 	"highLowMiddleThreshold":"50",
 	"speechSynthRetries":"0",
 	"formatTimerInSec":"30",
-	"defaultLocale":"en",
+	"defaultLocale":"de",
 	"highLowLowGuessTimerExtendedInSec":"90",
 	"supportsJoysticksHotplugging":"true",
 	"betterOrWorseContinueTimerExtendedInSec":"50",
@@ -57,7 +57,7 @@
 	"removeStartses":"[]",
 	"betterOrWorseVoteTimerInSec":"20",
 	"removeStartsen":"[\"a \",\"an \",\"the \"]",
-	"horseRaceGuessTimerInSec":"10",
+	"horseRaceGuessTimerInSec":"15",
 	"canPauseOnPressStart":"true",
 	"timerVOWarningStart":"10",
 	"videoplayer":"true",
@@ -95,7 +95,7 @@
 	"betterOrWorseVoteReward":"250",
 	"scrollSearchGuessTimerInSec":"40",
 	"highLowGoodScrollThreshold":"50",
-	"horseRaceGuessTimerExtendedInSec":"20",
+	"horseRaceGuessTimerExtendedInSec":"25",
 	"gameId":"928c228b-4d28-44a1-aee0-88678fe27b15",
 	"scrollGotVoteReward":"250",
 	"ticTacToeTimerInSec":"60",
@@ -133,6 +133,6 @@
 	"removeStartses-XL":"[]",
 	"scrollSearchMashupTimerExtendedInSec":"70",
 	"textRingSize":"100",
-	"buildTimeStamp":"2024-09-29 22:36:20",
-	"buildVersion":"299"
+	"buildTimeStamp":"2024-10-03 03:58:34",
+	"buildVersion":"307"
 }
